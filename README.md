@@ -6,5 +6,5 @@ I speak Italian, English and I'm learning Spanish.
 If you would like to read more about me and my projects or if you would like to reach me, hop [on my personal website](https://reloia.github.io).  
 
 ### Random Cool Stuff I did using Canvas or other APIs
-![spotify activity](https://glitch-proxy.vercel.app/reloia-listen/widgets/listening?borderRadius=10)  
+<img src="https://glitch-proxy.vercel.app/reloia-listen/widgets/listening?borderRadius=10" width=300 />  
 This image is rendered using NodeJS Canvas API on my API server, see more on it's [GitHub page](https://github.com/ReLoia/reloia_listen) or see the API in action on my website.
