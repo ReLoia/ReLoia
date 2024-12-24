@@ -6,5 +6,5 @@ I speak Italian, English and I'm learning Spanish.
 If you would like to read more about me and my projects or if you would like to reach me, hop [on my personal website](https://reloia.github.io).  
 
 ### Random Cool Stuff I did using Canvas or other APIs
-<img src="https://reloia.ddns.net/reloia_listen/widgets/listening?borderRadius=10" width=300 />  
-This image is rendered using NodeJS Canvas API on my API server, see more on it's <a href="https://github.com/ReLoia/reloia_listen">GitHub page</a> or see the API in action on my website.
+<img src="https://reloia.ddns.net/myspottyapi/widgets/listening?borderRadius=10" width=300 />  
+This image is rendered using NodeJS Canvas API on my API server, see more on it's <a href="https://github.com/ReLoia/myspottyapi">GitHub page</a> or see the API in action on my website.
